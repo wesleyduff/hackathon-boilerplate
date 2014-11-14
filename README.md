@@ -32,7 +32,7 @@ ___
 
 ________
 
-**Get Started 
+## Get Started 
 ______
 ```
 # Get the latest snapshot
