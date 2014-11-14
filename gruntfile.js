@@ -16,7 +16,9 @@ module.exports = function (grunt) {
         jasmine: {
             components: {
                 src: [
-                    
+                    'node_modules/angular/angular.js',
+                    'node_modules/angular-mocks/angular-mocks.js',
+                    'client/scripts/vendor/*.min.js',
                 ],
                 options: {
                     specs: 'test/*spec.js',
