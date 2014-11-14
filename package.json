@@ -1,5 +1,12 @@
 {
   "name": "hack01",
+  "version": "0.0.1",
+  "description": "Starter application - lite version",
+  "author" : "Wesley Duff",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleyduff/hackathon-boilerplate"
+  },
   "main": "server.js",
   "scripts": {
     "test": "grunt travis --verbose"
