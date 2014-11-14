@@ -3,7 +3,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "moca"
+    "test": "mocha"
   },
   "dependencies": {
     "bcryptjs": "^0.7.12",

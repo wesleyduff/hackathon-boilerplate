@@ -1,4 +1,4 @@
-var bcrypt = require('bcrypt-nodejs');
+var bcrypt = require('bcrypt');
 var crypto = require('crypto');
 var mongoose = require('mongoose');
 
@@ -7,7 +7,6 @@ var userSchema = new mongoose.Schema({
   password: String,
 
   facebook: String,
-  twitter: String,
   google: String,
   tokens: Array,
 
