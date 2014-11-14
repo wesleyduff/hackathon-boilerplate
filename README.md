@@ -1,11 +1,11 @@
-hackathon-boilerplate
-=====================
-
-M.E.A.N. Stack : Mongoose/MongoDB, Express.js, AngularJS, Node.js
+![Alt](https://lh4.googleusercontent.com/-PVw-ZUM9vV8/UuWeH51os0I/AAAAAAAAD6M/0Ikg7viJftQ/w1286-h566-no/hackathon-starter-logo.jpg)
+Hackathon Starter [![Dependency Status](https://david-dm.org/wesleyduff/hackathon-boilerplate.png)](https://david-dm.org/wesleyduff/hackathon-boilerplate) [![Build Status](http://img.shields.io/travis/sahat/hackathon-starter.svg?style=flat)](https://travis-ci.org/sahat/hackathon-starter) [![Analytics](https://ga-beacon.appspot.com/UA-47447818-2/hackathon-starter?pixel)](https://github.com/igrigorik/ga-beacon)
+=======================
 
 > This repo is based of off Sahat's Hackathon-starter.
 > His repo can be found [here](https://github.com/sahat/hackathon-starter)
 
+:octocat: &nbsp;**Live Demo**: http://hackathonstarter.herokuapp.com 
 
 ## Frameworks used
 <a href="https://camo.githubusercontent.com/16800ac336b7e71aa4dec640abdd44505af0fe25/687474703a2f2f69616e646f75676c61732e636f6d2f70726573656e746174696f6e732f7079636f6e6361323031322f6c6f676f732f73656e64677269645f6c6f676f2e706e67" target="_blank"><img src="https://camo.githubusercontent.com/16800ac336b7e71aa4dec640abdd44505af0fe25/687474703a2f2f69616e646f75676c61732e636f6d2f70726573656e746174696f6e732f7079636f6e6361323031322f6c6f676f732f73656e64677269645f6c6f676f2e706e67" width="200" data-canonical-src="http://iandouglas.com/presentations/pyconca2012/logos/sendgrid_logo.png" style="max-width:100%;"></a>
