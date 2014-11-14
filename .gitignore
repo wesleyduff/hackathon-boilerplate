@@ -2,6 +2,9 @@
 ### Node.js
 ########################
 
+#grunt
+.grunt
+
 # Logs
 logs
 *.log
