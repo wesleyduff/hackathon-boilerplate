@@ -29,3 +29,21 @@ ___
  - **Authorized Javascript origins**: http://localhost:3000
  - **Authorized redirect URI**: http://localhost:3000/auth/google/callback
 - Copy and past *Client ID* and *Client* secrete keys into `config/secrets.js`
+
+________
+
+**Get Started 
+______
+```
+# Get the latest snapshot
+git clone --depth=1 https://github.com/wesleyduff/hackathon-boilerplate.git hack01
+
+cd hack01
+
+#install NPM dependencies
+
+#run the server
+node server
+```
+
+
