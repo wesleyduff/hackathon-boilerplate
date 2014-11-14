@@ -17,3 +17,15 @@ config/secrets.js
 ```
 - You can view the web api [here](https://sendgrid.com/docs/API_Reference/Web_API/index.html)
 
+___
+
+<a href="https://camo.githubusercontent.com/11659862cd7bdf1c50b7aeac5b13964252deebfc/687474703a2f2f696d616765732e676f6f676c652e636f6d2f696e746c2f656e5f414c4c2f696d616765732f737270722f6c6f676f36772e706e67" target="_blank"><img src="https://camo.githubusercontent.com/11659862cd7bdf1c50b7aeac5b13964252deebfc/687474703a2f2f696d616765732e676f6f676c652e636f6d2f696e746c2f656e5f414c4c2f696d616765732f737270722f6c6f676f36772e706e67" width="200" data-canonical-src="http://images.google.com/intl/en_ALL/images/srpr/logo6w.png" style="max-width:100%;"></a>
+- Visit [Google Developers Console](https://console.developers.google.com)
+- click **CREATE PROJECT** button
+- Enter *Project Name*, then click **CREATE**
+- Select *APIs & auth* from the sidebar and click on *Credentials* tab
+- Click **CREATE NEW CLIENT ID** button
+ - **Application Type:** Web Application
+ - **Authorized Javascript origins**: http://localhost:3000
+ - **Authorized redirect URI**: http://localhost:3000/auth/google/callback
+- Copy and past *Client ID* and *Client* secrete keys into `config/secrets.js`
