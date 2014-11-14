@@ -2,7 +2,6 @@
   "name": "hack01",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
     "test": "grunt travis --verbose"
   },
   "dependencies": {
