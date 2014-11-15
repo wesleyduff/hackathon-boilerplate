@@ -12,7 +12,7 @@
     "test": "grunt travis --verbose"
   },
   "dependencies": {
-    "bcryptjs": "0.8.0",
+    "bcrypt": "0.8.0",
     "body-parser": "^1.6.2",
     "express": "^4.8.2",
     "jwt-simple": "^0.2.0",
