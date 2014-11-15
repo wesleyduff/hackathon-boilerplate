@@ -5,6 +5,16 @@ Hackathon Starter [![Dependency Status](https://david-dm.org/wesleyduff/hackatho
 > This repo is based of off Sahat's Hackathon-starter.
 > His repo can be found [here](https://github.com/sahat/hackathon-starter)
 
+**What is the difference between this repo and Sahat's repo**
+- Use of angular
+- Use of Router.js for Express.js
+- MongoLab example plus local host example with working Heroku Example for Production
+- Only Github, Facebook and Custom login. 
+  - I did not want all of the other logins but they are easily added if you prefer. 
+  - I am trying to make this as light as possible.
+  - I prefer not to include jQuery but since I like to use Bootsrap I must add jQuery. Bootstrap is dependent upon jQuery being loaded before Bootstrap.js
+- More coming soon as I build this out.
+
 :octocat: &nbsp;**Live Demo**: http://hackathonstarter.herokuapp.com 
 
 ## Frameworks used
